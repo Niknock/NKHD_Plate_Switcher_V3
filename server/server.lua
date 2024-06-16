@@ -111,4 +111,4 @@ AddEventHandler('nkhd_changePlate:removeTapeRemoverItem', function()
     end
 end)
 
-SetConvarServerInfo("Plateswitcher", "NKHD Plateswitcher V2")
+SetConvarServerInfo("Plateswitcher", "NKHD Plateswitcher V3")
