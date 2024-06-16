@@ -1,7 +1,3 @@
-# NKHD-Plate-Switcher-V2
+# NKHD-Plate-Switcher-V3
 
-1. Insert the SQL into your Databank
-2. Edit Config.lua
-3. Edit client.lua for Ox Target if used
-4. Drag the Script into your Server
-5. start NKHD-Plate-Switcher-V2
+If you need Help join: https://discord.gg/KvT9JPMsFX
